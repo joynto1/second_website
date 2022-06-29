@@ -1,0 +1,213 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.first-header {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(0, 110, 255), red);
+    border-image-slice: 1;
+    font-size: 50px;
+    color: rgb(51, 47, 47);
+    padding: 20px;
+    margin-left: 25%;
+    margin-top: 20%;
+
+}
+
+span {
+    color: orange;
+}
+
+p {
+    width: 60%;
+    margin-left: 25%;
+    font-size: 15px;
+    padding-bottom: 10px;
+
+
+
+}
+
+.firsttag {
+    padding-top: 30px;
+}
+
+h2 {
+    margin-left: 25%;
+    margin-top: 0;
+
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-left: 25%;
+    background-image: linear-gradient(orange, rgb(207, 196, 36));
+}
+
+.half-width {
+    width: 50%;
+
+
+
+}
+
+.half-width6 {
+    padding-top: 7%;
+    width: 55%;
+
+
+
+
+}
+
+.half-width4 {
+    width: 50%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: 100px 200px;
+
+}
+
+.half-width5 {
+    width: 50%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: 100px 200px;
+    padding-top: 7%;
+
+}
+
+
+
+.half-width1 {
+    border: 5px;
+    border-radius: 10px;
+    background-color: rgba(121, 172, 173, 0.541);
+    margin-left: 10%;
+
+
+
+
+}
+
+.half-width2 {
+    border: 5px;
+    border-radius: 10px;
+    background-color: rgba(119, 201, 123, 0.616);
+    margin-left: 30px;
+}
+
+.half-width3 {
+    border: 2px;
+    border-radius: 10px;
+    background-color: rgba(161, 97, 156, 0.555);
+    margin-left: 30px;
+    margin-right: 10%;
+
+}
+
+.second-header {
+    text-align: center;
+    font-size: 50px;
+}
+
+.last_header {
+    text-align: center;
+    font-size: 40px;
+    padding: 5px;
+
+    font-family: 'Anton', sans-serif;
+}
+
+.flexiable-container {
+    display: flex;
+
+}
+
+
+
+
+.firstimg {
+    width: 50%;
+    margin-left: 100px;
+
+
+
+}
+
+.fourthimg {
+    width: 60%;
+    margin-left: 100px;
+
+
+}
+
+
+
+.secondimg {
+    width: 35%;
+    margin-left: 22%;
+
+
+
+}
+
+.thirdimg {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 20%;
+
+
+
+}
+
+.third_litle {
+
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 20%;
+
+
+}
+
+.fourth_litle {
+
+
+    font-size: 40px;
+    margin-left: 25%;
+    margin-top: 20px;
+
+
+
+
+}
+
+
+.para {
+
+    padding-left: 5px;
+}
+
+.secondp {
+    margin-left: 0;
+    padding: 2px;
+    width: 80%;
+
+}
+
+.thirdp {
+    margin-left: 25%;
+    padding: 2px;
+    width: 80%;
+
+
+}
+
+.secondbutton {
+    margin-left: 0;
+}
