@@ -88,27 +88,18 @@ a {
     border: 5px;
     border-radius: 10px;
     background-color: rgba(121, 172, 173, 0.541);
-    margin-left: 10%;
-
-
-
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 
 .half-width2 {
-    border: 5px;
-    border-radius: 10px;
-    background-color: rgba(119, 201, 123, 0.616);
-    margin-left: 30px;
+    background-color: rgba(82, 206, 113, 0.637);
 }
 
 .half-width3 {
-    border: 2px;
-    border-radius: 10px;
-    background-color: rgba(161, 97, 156, 0.555);
-    margin-left: 30px;
-    margin-right: 10%;
-
+    background-color: rgba(168, 80, 131, 0.637);
 }
 
 .second-header {
@@ -119,9 +110,11 @@ a {
 .last_header {
     text-align: center;
     font-size: 40px;
-    padding: 5px;
+    padding-top: 5%;
 
-    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+
 }
 
 .flexiable-container {
@@ -133,8 +126,9 @@ a {
 
 
 .firstimg {
-    width: 50%;
+    width: 70%;
     margin-left: 100px;
+    margin-top: 5%;
 
 
 
@@ -175,6 +169,16 @@ a {
 
 }
 
+.five_litle {
+
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 40%;
+
+
+}
+
+
 .fourth_litle {
 
 
@@ -210,4 +214,23 @@ a {
 
 .secondbutton {
     margin-left: 0;
+}
+
+.lastpart1 {
+    text-align: center;
+
+}
+
+.lastpart2 {
+    margin-left: 35%;
+}
+
+.hi {
+    background-color: rgba(0, 0, 0, 0.719);
+
+
+}
+
+span1 {
+    color: rgb(233, 67, 169);
 }
